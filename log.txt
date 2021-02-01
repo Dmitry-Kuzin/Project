@@ -1,0 +1,11 @@
+commit 347522370630aad503a06c9a7507bf9240fd6508
+Author: Dmitry Kuzin <superlog@yandex.ru>
+Date:   Mon Feb 1 20:31:20 2021 +0300
+
+    add status.txt
+
+commit af20bd9557c6a84dcec27fe28abfce512fd5404a
+Author: Dmitry Kuzin <superlog@yandex.ru>
+Date:   Mon Feb 1 20:15:30 2021 +0300
+
+    add .gitignore
